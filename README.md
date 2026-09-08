@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Handwritten Digit Recognition using MNIST
 
 ## 📌 Project Overview
@@ -69,3 +70,6 @@ The model achieved strong performance and demonstrated effective classification 
 ---
 
 ## 📂 Project Structure
+=======
+# Handwritten-Digit-Recognition
+>>>>>>> bf9128130fae2b4d443c3d12f69bdef9764830fd

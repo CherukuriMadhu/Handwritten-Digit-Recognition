@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Handwritten Digit Recognition using MNIST
 
 ## 📌 Project Overview

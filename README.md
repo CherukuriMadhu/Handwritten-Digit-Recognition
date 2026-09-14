@@ -1,5 +1,5 @@
 
-# Handwritten Digit Recognition using MNIST
+# Handwritten Digit Recognition using MNIST Dataset
 
 ## 📌 Project Overview
 This project implements a **handwritten digit classification system** using the **MNIST dataset**, which consists of grayscale images of handwritten digits (0–9).  

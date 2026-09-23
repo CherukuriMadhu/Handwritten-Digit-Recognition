@@ -52,7 +52,7 @@ Given a 28×28 grayscale image of a handwritten digit, predict the correct digit
 
 ---
 
-## 📈 Evaluation Metrics
+## 📈 Evaluation Metrics..
 - Accuracy  
 - Precision  
 - Recall  
